@@ -10,7 +10,7 @@ hello.pyt
 (Contains the Python source code responsible for generating and printing unique randomized variations of the word “HELLO”.)
 
 README.txt
-Documentation explaining the project structure, execution steps, and learning objectives.
+(Documentation explaining the project structure, execution steps, and learning objectives.)
 
 HOW TO RUN
 
