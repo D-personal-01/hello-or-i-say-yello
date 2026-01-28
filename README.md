@@ -6,8 +6,8 @@ This project is a Python program that generates a large number of unique visual 
 
 FILES INCLUDED
 
-random_hello_generator.py
-Contains the Python source code responsible for generating and printing unique randomized variations of the word “HELLO”.
+hello.pyt
+(Contains the Python source code responsible for generating and printing unique randomized variations of the word “HELLO”.)
 
 README.txt
 Documentation explaining the project structure, execution steps, and learning objectives.
